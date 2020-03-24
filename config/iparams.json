@@ -1,0 +1,23 @@
+{
+  "subdomain": {
+    "display_name": "subdomain",
+    "description": "Please enter your subdomain",
+    "type": "text",
+    "required": true,
+    "secure": true
+  },
+  "api_key": {
+    "display_name": "api_key",
+    "description": "Please enter your api_key",
+    "type": "text",
+    "required": true,
+    "secure": true
+  },
+  "tax_check_webhook_url": {
+    "display_name": "tax_check_webhook_url",
+    "description": "Please enter your tax_check_webhook_url",
+    "type": "text",
+    "required": true,
+    "secure": true
+  }
+}
